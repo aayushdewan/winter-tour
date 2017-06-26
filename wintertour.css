@@ -1,0 +1,171 @@
+#block1{
+	
+height:600px;
+	
+background-image: url('him4.jpg');
+
+background-size: cover;
+
+background-repeat: no-repeat;
+
+padding:0%;
+}
+
+#nav{
+	
+	
+background-color: black;
+
+}
+
+
+#blockitem
+{
+	
+text-decoration: none;
+	
+font-family:  'Muli', sans-serif;
+	
+margin-top: 10px;
+	
+font-size: 15px;
+	
+color: white;
+
+}
+
+#block1text{
+	
+font-family: 'Muli', sans-serif;
+
+
+}
+
+#block1heading{
+	
+font-family: 'Anton',sans-serif;
+	
+font-size: 40px;
+	
+color: white;
+
+
+}
+
+#block1para{
+	
+font-family: 'Muli',sans-serif;
+	font-size: 20px;
+	
+color: white;
+
+}
+
+#block2{
+	
+height: 500px;
+padding:1%;
+
+}
+.w3-quarter{
+	margin:0.2%;
+	width:24.5%;		
+}
+
+
+#blockitem2{
+	
+margin-top: 40px;
+	
+font-size: 50px;
+	
+font-family: 'Anton',sans-serif;
+
+}
+
+#block2img{
+	
+width: 80px; 
+	
+height: 80px; 
+	
+padding: 5px;
+
+
+}
+
+#block2heading{
+	
+font-family: 'Anton',sans-serif;
+	
+font-size: 20px;
+
+
+}
+
+#block2para{
+	
+font-family:'Muli',sans-serif; 
+
+}
+
+
+#block3{
+	
+background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.3)
+    ),
+    url('back2.jpg');
+background-size: cover;
+	
+height: 600px;
+
+
+}
+
+
+#block3heading{
+	
+font-family: 'Anton',sans-serif; 
+	
+font-size: 40px;
+	
+color: white;
+
+}
+#tripimage{
+margin-top:30px;
+width:300px;
+height:300px;	
+}
+#offer{
+height:300px;
+background-color:#E63462;
+}
+#offerhead{
+color:white;
+font-family: 'Anton',sans-serif; 
+margin-top:20px;
+font-size:30px;
+
+}
+#offerlab{
+	font-size: 20px;	
+	color:white;
+	font-family:'Muli',sans-serif;
+}
+#foot{
+	height: 300px;
+}
+.w3-table a{
+	text-decoration: none;
+}
+.w3-table td{
+	color: white;
+}
+#footblock{
+	margin-right: 10px;
+	padding: 20px;
+}
